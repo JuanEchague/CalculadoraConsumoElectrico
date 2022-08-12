@@ -1,0 +1,35 @@
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.exe.config
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.exe
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.pdb
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.xml
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Resultado.resources
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Ingreso.resources
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Resources.resources
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.exe
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.xml
+C:\Users\Usuario\source\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.pdb
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.exe.config
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.exe
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.pdb
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\bin\Debug\Calculadora de consumo electrico.xml
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbprojAssemblyReference.cache
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Resultado.resources
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Ingreso.resources
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Resources.resources
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbproj.GenerateResource.cache
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbproj.CoreCompileInputs.cache
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.exe
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.xml
+E:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.pdb
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbprojAssemblyReference.cache
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Resultado.resources
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Ingreso.resources
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora_de_consumo_electrico.Resources.resources
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbproj.GenerateResource.cache
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.vbproj.CoreCompileInputs.cache
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.exe
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.xml
+J:\Tarea\Programacion\repos\Calculadora de consumo electrico\Calculadora de consumo electrico\obj\Debug\Calculadora de consumo electrico.pdb
